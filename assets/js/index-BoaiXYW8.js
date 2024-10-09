@@ -1,4 +1,4 @@
-import{d as c,l as f,r,b as l,c as u,i as e,w as a,k as s,t as y,A as x,g as _,j as b}from"./index-Cp9bqpii.js";const h=c({__name:"basicUsage",setup(m){const t=f(0),i=()=>{x.numberAnimate(1050,0,1e3,n=>{t.value=Math.floor(n)})};return(n,p)=>{const o=r("xy-button");return l(),u("div",null,[e(o,{onClick:i,style:{"margin-right":"10px"}},{default:a(()=>[s("开始动画")]),_:1}),s(y(t.value),1)])}}}),d=`<template>\r
+import{d as c,l as f,r,b as l,c as u,i as e,w as a,k as s,t as y,A as x,g as _,j as b}from"./index-BBzx9Igv.js";const h=c({__name:"basicUsage",setup(m){const t=f(0),i=()=>{x.numberAnimate(1050,0,1e3,n=>{t.value=Math.floor(n)})};return(n,p)=>{const o=r("xy-button");return l(),u("div",null,[e(o,{onClick:i,style:{"margin-right":"10px"}},{default:a(()=>[s("开始动画")]),_:1}),s(y(t.value),1)])}}}),d=`<template>\r
   <div>\r
     <xy-button @click="actionAnimation" style="margin-right: 10px">开始动画</xy-button>{{num}}\r
   </div>\r

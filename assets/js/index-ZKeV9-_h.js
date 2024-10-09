@@ -1,1 +1,0 @@
-import{d as t,c as n,i as a,r as s,b as c}from"./index-Cp9bqpii.js";const l=t({__name:"index",setup(i){const e=[{title:"基础组件",slot:"basicComponents"}];return(p,r)=>{const o=s("xy-showcase-page");return c(),n("div",null,[a(o,{introduction:"以下为xuyan-ui的全部组件,点击预览查看详情","page-title":"xuyan-ui组件预览",catalogue:e})])}}});export{l as default};

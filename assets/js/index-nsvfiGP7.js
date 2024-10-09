@@ -1,4 +1,4 @@
-import{d as g,u as v,c as y,i as r,w as n,r as e,b as f,j as t,k as c}from"./index-Cp9bqpii.js";const b=`<template>\r
+import{d as g,u as v,c as y,i as r,w as n,r as e,b as f,j as t,k as c}from"./index-BBzx9Igv.js";const b=`<template>\r
   <div class="graphBox">\r
     <div class="tools">\r
       背景颜色:<input type="color" v-model="BGColor" class="colorSelect"/>\r

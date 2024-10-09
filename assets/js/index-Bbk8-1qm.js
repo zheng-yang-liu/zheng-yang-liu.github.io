@@ -1,4 +1,4 @@
-import{d as b,l as c,r as u,b as p,c as f,i as e,w as t,k as r,j as m}from"./index-Cp9bqpii.js";const y=b({__name:"basicUsage",setup(v){const l=c(!1);return(d,a)=>{const n=u("xy-button"),i=u("xy-dialog");return p(),f("div",null,[e(n,{onClick:a[0]||(a[0]=o=>l.value=!0)},{default:t(()=>[r("打开弹框")]),_:1}),e(i,{visible:l.value,"onUpdate:visible":a[1]||(a[1]=o=>l.value=o)},{default:t(()=>[r(" 这是对话框的内容 ")]),_:1},8,["visible"])])}}}),x=`<template>\r
+import{d as b,l as c,r as u,b as p,c as f,i as e,w as t,k as r,j as m}from"./index-BBzx9Igv.js";const y=b({__name:"basicUsage",setup(v){const l=c(!1);return(d,a)=>{const n=u("xy-button"),i=u("xy-dialog");return p(),f("div",null,[e(n,{onClick:a[0]||(a[0]=o=>l.value=!0)},{default:t(()=>[r("打开弹框")]),_:1}),e(i,{visible:l.value,"onUpdate:visible":a[1]||(a[1]=o=>l.value=o)},{default:t(()=>[r(" 这是对话框的内容 ")]),_:1},8,["visible"])])}}}),x=`<template>\r
   <div>\r
     <xy-button @click="visible=true">打开弹框</xy-button>\r
     <xy-dialog v-model:visible="visible">\r

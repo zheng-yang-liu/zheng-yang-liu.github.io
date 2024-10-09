@@ -1,4 +1,4 @@
-import{d as c,l as b,r as s,b as u,c as m,i as n,w as r,k as v,j as d}from"./index-Cp9bqpii.js";const _=c({__name:"basicUsage",setup(f){const t=b(!1),a=async l=>{console.log(l)};return(l,e)=>{const p=s("el-button"),o=s("xy-img-cropping");return u(),m("div",null,[n(p,{onClick:e[0]||(e[0]=i=>t.value=!0)},{default:r(()=>[v("图像裁剪")]),_:1}),n(o,{visible:t.value,"onUpdate:visible":e[1]||(e[1]=i=>t.value=i),onConfirmReturn:a},null,8,["visible"])])}}}),x=`<template>\r
+import{d as c,l as b,r as s,b as u,c as m,i as n,w as r,k as v,j as d}from"./index-BBzx9Igv.js";const _=c({__name:"basicUsage",setup(f){const t=b(!1),a=async l=>{console.log(l)};return(l,e)=>{const p=s("el-button"),o=s("xy-img-cropping");return u(),m("div",null,[n(p,{onClick:e[0]||(e[0]=i=>t.value=!0)},{default:r(()=>[v("图像裁剪")]),_:1}),n(o,{visible:t.value,"onUpdate:visible":e[1]||(e[1]=i=>t.value=i),onConfirmReturn:a},null,8,["visible"])])}}}),x=`<template>\r
   <div>\r
     <el-button @click="visible=true">图像裁剪</el-button>\r
     <xy-img-cropping\r

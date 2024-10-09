@@ -1,4 +1,4 @@
-import{d as l,c as i,i as n,w as o,r as a,b as s,j as t}from"./index-Cp9bqpii.js";const d=`# NPM\r
+import{d as l,c as i,i as n,w as o,r as a,b as s,j as t}from"./index-BBzx9Igv.js";const d=`# NPM\r
 npm install xuyan-ui\r
 \r
 # Yarn\r
