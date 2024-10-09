@@ -1,4 +1,4 @@
-import{d as v,l as p,r as m,b as y,c as b,i as e,g as x,k as d,_ as w,h,w as r,j as _}from"./index-BBzx9Igv.js";const I=v({__name:"basicUsage",setup(V){const o=p("");return(u,a)=>{const l=m("xy-input");return y(),b("div",null,[e(l,{modelValue:o.value,"onUpdate:modelValue":a[0]||(a[0]=s=>o.value=s),placeholder:"请输入内容"},null,8,["modelValue"])])}}}),D=`<template>\r
+import{d as v,l as p,r as m,b as y,c as b,i as e,g as x,k as d,_ as w,h,w as r,j as _}from"./index-D92MjMHd.js";const I=v({__name:"basicUsage",setup(V){const o=p("");return(u,a)=>{const l=m("xy-input");return y(),b("div",null,[e(l,{modelValue:o.value,"onUpdate:modelValue":a[0]||(a[0]=s=>o.value=s),placeholder:"请输入内容"},null,8,["modelValue"])])}}}),D=`<template>\r
   <div>\r
     <xy-input v-model="testValue" placeholder="请输入内容"></xy-input>\r
   </div>\r

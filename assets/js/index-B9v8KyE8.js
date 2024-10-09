@@ -1,4 +1,4 @@
-import{d as o,r as t,b as r,c as s,i as e,w as a,g as _,j as u}from"./index-BBzx9Igv.js";const x=_("div",{style:{width:"100px",height:"20px","background-color":"#e0f0ff"}},"组件效果",-1),b='<div style="width: 100px;height: 20px;background-color: #e0f0ff">组件效果</div>',g=o({__name:"basicUsage",setup(d){return(n,c)=>{const i=t("xy-effect-preview");return r(),s("div",null,[e(i,{code:b},{default:a(()=>[x]),_:1})])}}}),h=`<template>\r
+import{d as o,r as t,b as r,c as s,i as e,w as a,g as _,j as u}from"./index-D92MjMHd.js";const x=_("div",{style:{width:"100px",height:"20px","background-color":"#e0f0ff"}},"组件效果",-1),b='<div style="width: 100px;height: 20px;background-color: #e0f0ff">组件效果</div>',g=o({__name:"basicUsage",setup(d){return(n,c)=>{const i=t("xy-effect-preview");return r(),s("div",null,[e(i,{code:b},{default:a(()=>[x]),_:1})])}}}),h=`<template>\r
   <div>\r
     <xy-effect-preview :code="code">\r
       <div style="width: 100px;height: 20px;background-color: #e0f0ff">组件效果</div>\r

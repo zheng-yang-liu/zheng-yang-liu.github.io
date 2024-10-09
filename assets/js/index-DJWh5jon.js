@@ -1,4 +1,4 @@
-import{d,u,c as g,i as e,w as n,r as t,b as m,j as f,g as x,_ as b}from"./index-BBzx9Igv.js";const y=`<template>\r
+import{d,u,c as g,i as e,w as n,r as t,b as m,j as f,g as x,_ as b}from"./index-D92MjMHd.js";const y=`<template>\r
   <div>\r
     <xy-showcase-page\r
       introduction="用于对图片的裁剪"\r
