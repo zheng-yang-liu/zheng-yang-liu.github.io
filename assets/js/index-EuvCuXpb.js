@@ -1,1 +1,0 @@
-import{d as t,b as n,e as a,r as s,o as c}from"./index-mpseKrIt.js";const l=t({__name:"index",setup(p){const e=[{title:"基础组件",slot:"basicComponents"}];return(r,i)=>{const o=s("xy-showcase-page");return c(),n("div",null,[a(o,{introduction:"以下为xuyan-ui的全部组件,点击预览查看详情","page-title":"xuyan-ui组件预览",catalogue:e})])}}});export{l as default};
